@@ -1,6 +1,6 @@
 ﻿//
-// This is to be used with the YEDUSO.EA package.
-// https://github.com/YEDUSO/YEDUSO.EA
+// This is to be used with the YellowDuckSoftware.EA package.
+// https://github.com/YellowDuckSoftware/YellowDuckSoftware.EA
 //
 //using Microsoft.VisualStudio.TestTools.UnitTesting;
 //using System;
@@ -8,9 +8,9 @@
 //using System.Linq;
 //using System.Text;
 //using System.Threading.Tasks;
-//using YEDUSO.EA;
+//using YellowDuckSoftware.EA;
 
-//namespace YEDUSO.TDI.Tests
+//namespace YellowDuckSoftware.TDI.Tests
 //{
 //    public class TestMessage
 //    {

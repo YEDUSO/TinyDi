@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\YEDUSO.TDI\YEDUSO.TDI.csproj" />
+    <ProjectReference Include="..\YellowDuckSoftware.TDI\YellowDuckSoftware.TDI.csproj" />
   </ItemGroup>
 
 </Project>

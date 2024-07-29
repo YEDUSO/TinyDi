@@ -1,13 +1,13 @@
 using Xunit;
-using YEDUSO.TDITester;
+using YellowDuckSoftware.TDITester;
 
-namespace YEDUSO.TDI.Tests
+namespace YellowDuckSoftware.TDI.Tests
 {
     public class TDI_Tests
     {
         private TinyDi _tinyDi;
 
-        public  TestTDI_TestsInitialize()
+        public TDI_Tests()
         {
             _tinyDi = TinyDi.Instance;
         }

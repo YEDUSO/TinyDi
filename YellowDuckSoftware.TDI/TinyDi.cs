@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace YEDUSO.TDI
+namespace YellowDuckSoftware.TDI
 {
     public class TinyDi
     {

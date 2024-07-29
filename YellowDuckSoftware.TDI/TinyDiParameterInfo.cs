@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace YEDUSO.TDI
+namespace YellowDuckSoftware.TDI
 {
     public class TinyDiParameterInfo
     {

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace YEDUSO.TDI
+namespace YellowDuckSoftware.TDI
 {
     public class TinyDiConstructorInfo
     {

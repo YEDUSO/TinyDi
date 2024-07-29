@@ -1,4 +1,4 @@
-﻿namespace YEDUSO.TDITester
+﻿namespace YellowDuckSoftware.TDITester
 {
     public interface ITestClassSubOne
     {

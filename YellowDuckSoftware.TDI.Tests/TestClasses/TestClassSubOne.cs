@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace YEDUSO.TDITester
+namespace YellowDuckSoftware.TDITester
 {
     public class TestClassSubOne
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace YEDUSO.TDI.Tests.TestClasses
+namespace YellowDuckSoftware.TDI.Tests.TestClasses
 {
     public class InstanceClass
     {

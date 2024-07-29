@@ -1,4 +1,4 @@
-﻿namespace YEDUSO.TDI
+﻿namespace YellowDuckSoftware.TDI
 {
     public enum TinyDiLifeCycle
     {
